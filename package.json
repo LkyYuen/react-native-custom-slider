@@ -2,29 +2,27 @@
   "name": "react-native-custom-slider",
   "title": "React Native Custom Slider",
   "version": "1.0.0",
-  "description": "TODO",
-  "main": "index.js",
+  "description": "React Native Slider with Customizable Thumb",
+  "main": "src/Slider.js",
   "files": [
-    "README.md",
-    "android",
-    "index.js",
-    "ios",
-    "react-native-custom-slider.podspec"
+    "lib",
+    "src"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-custom-slider.git",
-    "baseUrl": "https://github.com/github_account/react-native-custom-slider"
+    "url": "git+https://github.com/LkyYuen/react-native-custom-slider.git",
+    "baseUrl": "https://github.com/LkyYuen/react-native-custom-slider"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "slider"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "LkyYuen",
+    "email": "lkylau96@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
