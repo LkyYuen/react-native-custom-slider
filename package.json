@@ -1,7 +1,7 @@
 {
   "name": "react-native-custom-slider",
   "title": "React Native Custom Slider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native Slider with Customizable Thumb",
   "main": "src/Slider.js",
   "files": [
